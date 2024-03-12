@@ -25,5 +25,5 @@
         return $seka;
     }
 
-    print_r(trysx(150));
+    print_r(trysx(385));
 ?>

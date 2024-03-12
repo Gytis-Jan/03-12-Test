@@ -77,7 +77,9 @@
     ];
 }
 
-$rezultatai = Inte(1, 50);
+//Naujas komentaras
+
+$rezultatai = Inte(1, 25);
 $intervaluResultatai = $rezultatai['visiRezultatai'];
 $maxReiksmesSkaicius = $rezultatai['maxReiksmesSkaicius'];
 $maxIteracijuSkaicius = $rezultatai['maxIteracijuSkaicius'];
